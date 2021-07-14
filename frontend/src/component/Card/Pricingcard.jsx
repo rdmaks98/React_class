@@ -20,8 +20,7 @@ const Pricingcard = (props) => {
                             <li><i className="bx bx-check"></i> 5 GB Bandwidth</li>
                             <li><i className="bx bx-check"></i> Free Update</li>
                             <li><i className="bx bx-check"></i> High Regulation</li>
-                            <li><i className="bx bx-check"></i> Branding</li>
-                            <li><i className="bx bx-check"></i> Another Great Features</li>
+                            <li><i className="bx bx-check"></i> Branding</li>                            <li><i className="bx bx-check"></i> Another Great Features</li>
                         </ul>
                     </div>
                     <div className="pricing-footer">

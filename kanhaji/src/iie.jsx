@@ -1,5 +1,7 @@
 import React from "react";
 import "./index.css";
+const img = './img/abc.jpg';
+
 
 const i_style = {
   color: "lightgray",
@@ -17,7 +19,7 @@ function Iie_css() {
       <p style={{ color: "pink" }}>
         {name},{cityname}
       </p>
-
+    <img src={img} />
       {/* internal  */}
       <p style={i_style}>Today date:{date}</p>
 

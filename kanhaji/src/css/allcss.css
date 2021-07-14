@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: darkcyan;
+    color:black;
+}
+
+
+button{
+    display: relative;
+    top:60px;
+    align-items: center;
+    border-radius: 20px;
+    background-color: coral;
+    justify-content: center;
+    color:green;
+}

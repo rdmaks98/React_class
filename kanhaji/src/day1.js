@@ -35,14 +35,14 @@ function Day1() {
       {/* // ! challange1 // 1. create react app from scratch // 2. create one */}
       {/* h1 element in it. // 3. create one p element in it. // 4. create list of 5
       name of shiva.  */}
-      {/* <>
+      <>
         <h1>top 5 city in gujrat</h1>
         <p>list out</p>
         <ul>
           <li>ahmedabad</li>
           <li>vadodara</li>
         </ul>
-      </> */}
+      </>
     </>
   );
 }
